@@ -2,7 +2,7 @@ JSON
  1. Создать внешний репозиторий c названием JSON. === click New
  2. Клонировать репозиторий JSON на локальный компьютер. === git clone link
  3. Внутри локального JSON создать файл “new.json”. === cd .. JSON
-														touch new.json
+							touch new.json
  4. Добавить файл под гит. === git add new.json
  5. Закоммитить файл. === git commit -m "new file"
  6. Отправить файл на внешний GitHub репозиторий. === git push
